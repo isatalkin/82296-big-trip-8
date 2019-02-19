@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
-* Студент: [Илья Саталкин](https://up.htmlacademy.ru/ecmascript/8/user/82296).
-* Наставник: `Неизвестно`.
+* Студент: [Илья Саталкин](https://htmlacademy.ru/profile/id82296).
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/id345377).
 
 ---
 
